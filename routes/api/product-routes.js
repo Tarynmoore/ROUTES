@@ -26,7 +26,7 @@ router.get('/', async (req, res) => {
       {
         include: Category, Tag
       });
-      if (!categoryData) {
+      if (!productData) {
         res.status(404).json(
         {
           message: 'No product with this ID!'
