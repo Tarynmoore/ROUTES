@@ -25,4 +25,6 @@ Lastly, start the application
 ```bash
 npm start
 ```
-Once the application has started you must do the route requests in Insomnia. 
+Once the application has started you must do the route requests in Insomnia.
+
+[Untitled_ Aug 14, 2022 4_04 PM.webm](https://user-images.githubusercontent.com/101439331/184556532-c3a59301-5889-4e1e-be42-2e7d357d2a3c.webm)
